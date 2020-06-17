@@ -74,7 +74,6 @@ env:
       - FRAMEWORK=crystal.router.cr
       - FRAMEWORK=crystal.orion
       - FRAMEWORK=crystal.lucky
-      - FRAMEWORK=crystal.onyx
       - FRAMEWORK=crystal.kemal
       - FRAMEWORK=crystal.grip
       - FRAMEWORK=crystal.toro
